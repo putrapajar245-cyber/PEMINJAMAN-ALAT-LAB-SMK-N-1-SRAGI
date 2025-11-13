@@ -164,7 +164,7 @@ function format_tanggal($tanggal)
                 label: 'Jumlah Dipinjam',
                 data: dataBarang,
                 backgroundColor: [
-                    '#207c5c', '#17a364', '#65cc9e', '#95dcbc', '#0e623d'
+                    '#3700ffff', '#ff0000ff', '#00ff8cff', '#fbff00ff', '#ff9900ff'
                 ],
                 borderRadius: 6
             }]
