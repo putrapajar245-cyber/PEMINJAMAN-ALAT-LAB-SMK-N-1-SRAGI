@@ -133,7 +133,7 @@
                             <li>1️⃣ Teknik Otomotif Kendaraan Ringan (TOKR)</li>
                             <li>2️⃣ Teknik Otomotif Sepeda Motor (TOSM) / <em>Teknik dan Bisnis Sepeda Motor (TBSM)</em></li>
                             <li>3️⃣ Teknik Kimia Industri</li>
-                            <li>4️⃣ Teknik Jaringan Komputer dan Telekomunikasi (TJKT)</li>
+                            <li>4️⃣ Teknik Jaringan Komputer dan Telekomunikasi(TJKT)</li>
                             <li>5️⃣ Akuntansi dan Keuangan Lembaga</li>
                         </ul>
                     </div>
