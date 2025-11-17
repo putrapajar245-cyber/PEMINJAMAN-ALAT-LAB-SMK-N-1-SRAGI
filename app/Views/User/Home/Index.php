@@ -93,7 +93,7 @@
                             <blockquote class="blockquote text-gray-800 mb-0" style="font-size: 0.95rem;">
                                 “Belajar jaringan memang rumit, tapi tanpa jaringan, dunia tidak akan terkoneksi.”
                             </blockquote>
-                            <footer class="blockquote-footer mt-1">Rahmat Sudarmo</footer>
+                            <footer class="blockquote-footer mt-1">Atmin</footer>
                         </div>
                         <div class="col-auto">
                             <i class="fas fa-lightbulb fa-2x text-success"></i>
